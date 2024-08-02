@@ -3,7 +3,7 @@
 </script>
 
 <svelte:head>
-	<title>Home</title>
+	<title>Ross Cooper</title>
 	<meta name="description" content="Portfolio for Ross Cooper" />
 </svelte:head>
 
